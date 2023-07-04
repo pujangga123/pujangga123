@@ -1,7 +1,8 @@
 # En Tay: Hi there 👋
 
 <p align=center>
-    <img src="images/programmer.gif"/><br>
+    <img src="images/programmer.gif"/>
+    <br/>
     <a href="https://tenor.com/view/programmer-gif-19019116">source</a>
 </p>
 
