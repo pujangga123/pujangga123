@@ -1,5 +1,13 @@
 # En Tay: Hi there 👋
-
+<p align=center>
+    <a href="https://github.com/devxb/gitanimals">
+    <img
+      src="https://render.gitanimals.org/farms/pujangga123"
+      width="600"
+      height="300"
+    />
+    </a>
+</p>
 <p align=center>
     <img src="images/programmer.gif"/>
     <br/>
